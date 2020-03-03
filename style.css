@@ -251,7 +251,7 @@ h5 {
 
 
   .ImageBackGround{
-  background: url('../cat.jpg');
+  background: url('cat.jpg');
   -webkit-background-size:cover;
   -moz-background-size:cover;
   background-size: cover;
